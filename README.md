@@ -17,4 +17,4 @@ jupyter lab
 Map
 ------
 
-![Price Map][./price_map.png]
+![Price Map](./price_map.png)

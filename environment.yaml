@@ -1,0 +1,9 @@
+name: stockholm-price-map
+dependencies:
+  - python=3.8
+  - geopandas=0.8.1
+  - pip:
+    - jupyterlab==2.2.0
+    - altair==4.1.0
+    - argh==0.26.2
+    - pandas==1.0.5

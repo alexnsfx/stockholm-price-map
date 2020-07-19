@@ -26,4 +26,15 @@ Data has been clipped to 1-95 percentiles to improve visibility.
 
 Freshness: 2020-07-19. Price in SEK.
 
-![Price Map](./price_map.png)
+![Price Map](./static/price_map.png)
+
+Dataset
+------
+
+Raw
+
+![Raw Dataset](./static/raw_dataset.png)
+
+Cleaned
+
+![Cleaned Dataset](./static/cleaned_dataset.png)
